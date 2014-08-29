@@ -20,6 +20,6 @@ That's it!
 
 DISCLAIMER:
 This script hosts a web server bound to localhost:9191 that will give a directory listing 
-and server files from your root directory. It is shoud not serve to other IPs.
-However hosting anything is inherently dangerous. Do not use
+and serve files from your root directory. It should, by default,  not serve to other IPs.
+However hosting anything like this is inherently dangerous. Do not use
 this unless you know what you are doing and you are doing it securely.
