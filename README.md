@@ -3,8 +3,8 @@ janus_file_browser
 
 A simple file browser for janusVR
 
-![directory_with_folders](http://imgur.com/79ZHxHJ)
-![directory_with_images](http://imgur.com/NPbr2Sl)
+![Imgur](http://i.imgur.com/NPbr2Sl.png)
+![Imgur](http://i.imgur.com/79ZHxHJ)
 
 requirements:
 Python 2.7
