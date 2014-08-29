@@ -4,7 +4,7 @@ janus_file_browser
 A simple file browser for janusVR
 
 ![Imgur](http://i.imgur.com/NPbr2Sl.png)
-![Imgur](http://i.imgur.com/79ZHxHJ)
+![Imgur2](http://i.imgur.com/79ZHxHJ.jpg)
 
 requirements:
 Python 2.7
